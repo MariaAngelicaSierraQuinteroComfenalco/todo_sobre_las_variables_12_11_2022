@@ -1,6 +1,5 @@
 addEventListener(`DOMContentLoaded`, (e)=>{
 
-    document.querySelector("body").innerHTML = "BIENVENIDOS";
     document.querySelector("body").innerHTML = "Usario porfavor revisar consola (oprimir tecla f12)";
 
     
@@ -34,8 +33,6 @@ addEventListener(`DOMContentLoaded`, (e)=>{
     console.log(estudiarOtroPrograma)
     console.groupEnd();
   
-
-
     let mascota ={Clase:"gata",Nombre:"Hera",Edad:"4 años",Peso: "4kg"}
 
     console.group("Caracteristicas de tu mascota");
