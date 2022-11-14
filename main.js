@@ -24,7 +24,7 @@ addEventListener(`DOMContentLoaded`, (e)=>{
     console.log(Estudio);
     console.groupEnd();
 
-    let meGraduare ;   
+    let meGraduare=null;  
     console.group("¿Me graduare de mi carrera?");
     console.log(meGraduare);
     console.groupEnd();
