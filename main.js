@@ -28,11 +28,12 @@ addEventListener(`DOMContentLoaded`, (e)=>{
     console.group("¿Me graduare de mi carrera?");
     console.log(meGraduare);
     console.groupEnd();
+    let estudiarOtroPrograma
+    console.log(estudiarOtroPrograma)
 
-    let estudiarOtroPrograma;
    // console.group("¿Como se llama el progrma que estudiare?");
-    console.log(estudiarOtroPrograma);
     //console.groupEnd();
+  
 
 
 let mascota ={Clase:"gata",Nombre:"Hera",Edad:"4 años",Peso: "4kg"}
