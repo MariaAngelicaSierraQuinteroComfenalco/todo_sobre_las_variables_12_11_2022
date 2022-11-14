@@ -29,7 +29,7 @@ addEventListener(`DOMContentLoaded`, (e)=>{
     console.log(meGraduare);
     console.groupEnd();
 
-    let estudiarOtroPrograma=null;
+    let estudiarOtroPrograma;
     console.group("¿Como se llama el progrma que estudiare?");
     console.log(estudiarOtroPrograma);
     console.groupEnd();
